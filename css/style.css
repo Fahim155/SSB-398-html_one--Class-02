@@ -1,0 +1,110 @@
+body{
+
+padding: 2px;
+margin: 20px;
+
+background-color: whitesmoke;
+
+
+
+}
+
+
+
+
+h1{
+
+    font-size: 40PX;
+  font-style: italic;
+  color:#121d65;
+
+
+
+}
+
+
+
+
+.box{
+
+    height: 50px;
+    width:345px;
+  border-color: burlywood ;
+}
+    
+
+#section1{
+    background-color: #0f2d11 ;
+     border: 4px;
+
+    position:absolute;
+    width: 350px;
+    font-size: 50px;
+    border-color: orange;
+    border-style: solid;
+  
+}
+
+
+.b input{
+
+ text-align: justify;
+font-size: 20px;
+
+color: black;
+
+padding: 5px;
+
+border-color: #1499ed;
+float: center;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.pxsize {
+    width: 200px;
+    height: 200px;
+    background-color:green;
+    margin-bottom: 10px;
+}
+
+.ptsize {
+    width: 100pt;
+    height: 100pt;
+    background-color: lightcoral;
+    margin-bottom: 10px;
+}
+
+.emsize {
+    width: 10em;
+    height: 10em;
+    background-color: lightgreen;
+    margin-bottom: 10px;
+}
+
+.remsize {
+    width: 10rem;
+    height: 10rem;
+    background-color: lightslategrey;
+    margin-bottom: 10px;
+}
+
+.persize {
+    width: 50%;
+    height: 50px;
+    background-color: lightskyblue;
+    margin-bottom: 10px;
+}
+
+table{
+    border: 1px solid black;
+}
